@@ -1,4 +1,4 @@
-# Sber_App
+# Sber_App - https://github.com/Alowe17/Sber_backend
 mobile app for employees of the dealership center
 
 # Sber for Employees
